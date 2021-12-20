@@ -15,12 +15,12 @@
     "react-elastic-carousel": "^0.11.5",
     "react-lazy-load-image-component": "^1.5.1",
     "react-responsive-carousel": "^3.2.22",
+    "react-scripts": "^5.0.0",
     "react-slick": "^0.28.1",
     "rooks": "^5.8.0",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.3"
   },
-  "homepage": "https://github.com/0xbsec/react-chrome-dino",
   "devDependencies": {
     "@babel/core": "7.6.0",
     "@svgr/webpack": "4.3.2",
